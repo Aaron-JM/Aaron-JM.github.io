@@ -1,44 +1,84 @@
 {
     "leaderboard": {
         "1": {
-            "player": "null",
-            "time": 0
+            "player": {
+                "value": "null"
+            },
+            "waves": {
+                "value": 0
+            }
         },
         "2": {
-            "player": "null",
-            "time": 0
+            "player": {
+                "value": "null"
+            },
+            "waves": {
+                "value": 0
+            }
         },
         "3": {
-            "player": "null",
-            "time": 0
+            "player": {
+                "value": "null"
+            },
+            "waves": {
+                "value": 0
+            }
         },
         "4": {
-            "player": "null",
-            "time": 0
+            "player": {
+                "value": "null"
+            },
+            "waves": {
+                "value": 0
+            }
         },
         "5": {
-            "player": "null",
-            "time": 0
+            "player": {
+                "value": "null"
+            },
+            "waves": {
+                "value": 0
+            }
         },
         "6": {
-            "player": "null",
-            "time": 0
+            "player": {
+                "value": "null"
+            },
+            "waves": {
+                "value": 0
+            }
         },
         "7": {
-            "player": "null",
-            "time": 0
+            "player": {
+                "value": "null"
+            },
+            "waves": {
+                "value": 0
+            }
         },
         "8": {
-            "player": "null",
-            "time": 0
+            "player": {
+                "value": "null"
+            },
+            "waves": {
+                "value": 0
+            }
         },
         "9": {
-            "player": "null",
-            "time": 0
+            "player": {
+                "value": "null"
+            },
+            "waves": {
+                "value": 0
+            }
         },
         "10": {
-            "player": "null",
-            "time": 0
+            "player": {
+                "value": "null"
+            },
+            "waves": {
+                "value": 0
+            }
         }
     }
 }
